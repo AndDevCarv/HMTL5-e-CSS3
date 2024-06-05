@@ -16,11 +16,13 @@ main {
     padding: 40px; /*'Engorda' as coisas*/
     margin: auto; /*Centraliza os itens no centro*/
     border-radius: 10px; /*Arredonda as bordas*/
-    box-shadow: 10px 10px 10px #06272f; /*faz a sombra, os primeiros 3 parametros são as dimensoes e por ultimo a cor do sombreamento*/
+    box-shadow: 10px 10px 10px #06272f67; /*faz a sombra, os primeiros 3 parametros são as dimensoes e por ultimo a cor do sombreamento*/
 }
 
 h1 {
     color: #10454F;
+    text-shadow: 10px, 10px, 10px, black;
+    text-align: center;
 }
 
 h2 {
