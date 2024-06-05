@@ -1,0 +1,10 @@
+@charset "UTF-8"; /*serve para evitar erros com compatibilidade*/
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    /*height: 100%;*/
+}
+
+p {
+    text-align: justify;
+}
