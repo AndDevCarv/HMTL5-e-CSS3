@@ -5,6 +5,28 @@
     /*height: 100%;*/
 }
 
+body {
+    
+    background-image: linear-gradient(to right, #818274, #506266); /*Faz o degradê das cores*/
+}
+
+main {
+    background-color: whitesmoke; /*Dá o fundo branco pois letra preta = fundo branco ou quase isso*/
+    width: 900px; /*Da o tamanho da area do main*/
+    padding: 40px; /*'Engorda' as coisas*/
+    margin: auto; /*Centraliza os itens no centro*/
+    border-radius: 10px; /*Arredonda as bordas*/
+    box-shadow: 10px 10px 10px #06272f; /*faz a sombra, os primeiros 3 parametros são as dimensoes e por ultimo a cor do sombreamento*/
+}
+
+h1 {
+    color: #10454F;
+}
+
+h2 {
+    color: #10454F;
+}
+
 p {
-    text-align: justify;
+    text-align: justify; /*Deixa as palavras mais alinhadas*/
 }
