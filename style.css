@@ -21,7 +21,7 @@ main {
 
 h1 {
     color: #10454F;
-    text-shadow: 10px, 10px, 10px, black;
+    text-shadow: 1px, 1px, 0px, black;
     text-align: center;
 }
 
